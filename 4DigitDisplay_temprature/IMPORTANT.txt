@@ -1,0 +1,3 @@
+Note:
+
+	Don't forget to swap the YELLOW wire with PURPLE from the diagram. That is, YELLOW wire should be in PIN 12 of Arduino and PURPLE wire should be in PIN 11.
